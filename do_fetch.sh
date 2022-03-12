@@ -48,7 +48,7 @@ fi
 
 case "$SCOPE" in
 	repo)
-		URL="https://api.github.com/search/repositories?q=Android&sort=stars&order=desc&page=$PAGE"
+		URL="https://api.github.com/search/repositories?q=topic:android&sort=stars&order=desc&page=$PAGE"
 		;;
 	code)
 		URL="https://api.github.com/search/code?q=filename:Activity%2Ejava+repo:$REPO_IDENT"

@@ -4,10 +4,13 @@
 
 . .env
 
+PAGE=$(cat code_page.txt)
+
 # This call captures the "$username/$repository_name"
 # from the obtained repository url
 # "ri" is shorthand for "repository identifier"
-jq 'select(.visited == false) | .url | capture("/(?<ri>[^/]+/[^/]+)$").ri' < android_pipeline_result.txt \
+jq '.url | capture("/(?<ri>[^/]+/[^/]+)$").ri' < android_pipeline_result.txt \
+	| awk 'NR >='$PAGE' * 10 && NR < ('$PAGE' + 1) * 10' \
 	| ./code_pipeline_consumer.sh \
 	> code_pipeline_fetched_info.txt
 
@@ -20,6 +23,4 @@ if [ "$?" -ne "0" ]; then
 	exit 1
 fi
 
-jq '.visited = true' < android_pipeline_result.txt > android_pipeline_result_temp.txt
-
-mv android_pipeline_result_temp.txt android_pipeline_result.txt
+echo $(expr $PAGE + 1) > code_page.txt
