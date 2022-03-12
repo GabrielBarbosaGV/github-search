@@ -9,7 +9,11 @@
 # "ri" is shorthand for "repository identifier"
 jq 'select(.visited == false) | .url | capture("/(?<ri>[^/]+/[^/]+)$").ri' < android_pipeline_result.txt \
 	| ./code_pipeline_consumer.sh \
-	| jq '.items | select(length > 0) | {name: .[0].repository.full_name, count: (length)}' >> code_pipeline_result.txt
+	> code_pipeline_fetched_info.txt
+
+jq '.items | select(length > 0) | {name: .[0].repository.full_name, count: length}' \
+	< code_pipeline_fetched_info.txt \
+	>> code_pipeline_result.txt
 
 if [ "$?" -ne "0" ]; then
 	echo_err "As an error occurred, consumed repositories will not be marked as visited"
