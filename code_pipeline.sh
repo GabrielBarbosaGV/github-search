@@ -10,7 +10,7 @@ PAGE=$(cat code_page.txt)
 # from the obtained repository url
 # "ri" is shorthand for "repository identifier"
 jq '.url | capture("/(?<ri>[^/]+/[^/]+)$").ri' < android_pipeline_result.txt \
-	| awk 'NR >='$PAGE' * 10 && NR < ('$PAGE' + 1) * 10' \
+	| awk 'NR >='$PAGE' * 5 && NR < ('$PAGE' + 1) * 5' \
 	| ./code_pipeline_consumer.sh \
 	> code_pipeline_fetched_info.txt
 
