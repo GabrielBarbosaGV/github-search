@@ -1,0 +1,1200 @@
+{
+  "url": "https://github.com/flutter/flutter",
+  "stars": 137571
+}
+{
+  "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+  "stars": 88269
+}
+{
+  "url": "https://github.com/Genymobile/scrcpy",
+  "stars": 62727
+}
+{
+  "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+  "stars": 49945
+}
+{
+  "url": "https://github.com/google/material-design-icons",
+  "stars": 45296
+}
+{
+  "url": "https://github.com/wasabeef/awesome-android-ui",
+  "stars": 42258
+}
+{
+  "url": "https://github.com/square/okhttp",
+  "stars": 41792
+}
+{
+  "url": "https://github.com/android/architecture-samples",
+  "stars": 40337
+}
+{
+  "url": "https://github.com/Solido/awesome-flutter",
+  "stars": 39821
+}
+{
+  "url": "https://github.com/square/retrofit",
+  "stars": 39698
+}
+{
+  "url": "https://github.com/PhilJay/MPAndroidChart",
+  "stars": 34795
+}
+{
+  "url": "https://github.com/fastlane/fastlane",
+  "stars": 34267
+}
+{
+  "url": "https://github.com/airbnb/lottie-android",
+  "stars": 32549
+}
+{
+  "url": "https://github.com/shadowsocks/shadowsocks-android",
+  "stars": 32388
+}
+{
+  "url": "https://github.com/bumptech/glide",
+  "stars": 32353
+}
+{
+  "url": "https://github.com/Trinea/android-open-project",
+  "stars": 30873
+}
+{
+  "url": "https://github.com/Blankj/AndroidUtilCode",
+  "stars": 30547
+}
+{
+  "url": "https://github.com/xitu/gold-miner",
+  "stars": 30288
+}
+{
+  "url": "https://github.com/bilibili/ijkplayer",
+  "stars": 30116
+}
+{
+  "url": "https://github.com/skylot/jadx",
+  "stars": 29425
+}
+{
+  "url": "https://github.com/zxing/zxing",
+  "stars": 29300
+}
+{
+  "url": "https://github.com/laurent22/joplin",
+  "stars": 28686
+}
+{
+  "url": "https://github.com/codepath/android_guides",
+  "stars": 27697
+}
+{
+  "url": "https://github.com/square/leakcanary",
+  "stars": 27333
+}
+{
+  "url": "https://github.com/alibaba/fastjson",
+  "stars": 24202
+}
+{
+  "url": "https://github.com/scwang90/SmartRefreshLayout",
+  "stars": 23365
+}
+{
+  "url": "https://github.com/CymChad/BaseRecyclerViewAdapterHelper",
+  "stars": 22681
+}
+{
+  "url": "https://github.com/react-native-elements/react-native-elements",
+  "stars": 22130
+}
+{
+  "url": "https://github.com/google/iosched",
+  "stars": 21201
+}
+{
+  "url": "https://github.com/NativeScript/NativeScript",
+  "stars": 21015
+}
+{
+  "url": "https://github.com/flutter/flutter",
+  "stars": 137603
+}
+{
+  "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+  "stars": 88288
+}
+{
+  "url": "https://github.com/Genymobile/scrcpy",
+  "stars": 62765
+}
+{
+  "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+  "stars": 49959
+}
+{
+  "url": "https://github.com/google/material-design-icons",
+  "stars": 45305
+}
+{
+  "url": "https://github.com/wasabeef/awesome-android-ui",
+  "stars": 42265
+}
+{
+  "url": "https://github.com/square/okhttp",
+  "stars": 41801
+}
+{
+  "url": "https://github.com/android/architecture-samples",
+  "stars": 40339
+}
+{
+  "url": "https://github.com/Solido/awesome-flutter",
+  "stars": 39827
+}
+{
+  "url": "https://github.com/square/retrofit",
+  "stars": 39704
+}
+{
+  "url": "https://github.com/PhilJay/MPAndroidChart",
+  "stars": 34799
+}
+{
+  "url": "https://github.com/fastlane/fastlane",
+  "stars": 34272
+}
+{
+  "url": "https://github.com/airbnb/lottie-android",
+  "stars": 32553
+}
+{
+  "url": "https://github.com/shadowsocks/shadowsocks-android",
+  "stars": 32391
+}
+{
+  "url": "https://github.com/bumptech/glide",
+  "stars": 32356
+}
+{
+  "url": "https://github.com/Trinea/android-open-project",
+  "stars": 30875
+}
+{
+  "url": "https://github.com/Blankj/AndroidUtilCode",
+  "stars": 30547
+}
+{
+  "url": "https://github.com/xitu/gold-miner",
+  "stars": 30293
+}
+{
+  "url": "https://github.com/bilibili/ijkplayer",
+  "stars": 30116
+}
+{
+  "url": "https://github.com/skylot/jadx",
+  "stars": 29431
+}
+{
+  "url": "https://github.com/zxing/zxing",
+  "stars": 29298
+}
+{
+  "url": "https://github.com/laurent22/joplin",
+  "stars": 28701
+}
+{
+  "url": "https://github.com/codepath/android_guides",
+  "stars": 27697
+}
+{
+  "url": "https://github.com/square/leakcanary",
+  "stars": 27338
+}
+{
+  "url": "https://github.com/alibaba/fastjson",
+  "stars": 24203
+}
+{
+  "url": "https://github.com/scwang90/SmartRefreshLayout",
+  "stars": 23366
+}
+{
+  "url": "https://github.com/CymChad/BaseRecyclerViewAdapterHelper",
+  "stars": 22683
+}
+{
+  "url": "https://github.com/react-native-elements/react-native-elements",
+  "stars": 22135
+}
+{
+  "url": "https://github.com/google/iosched",
+  "stars": 21205
+}
+{
+  "url": "https://github.com/NativeScript/NativeScript",
+  "stars": 21019
+}
+{
+  "url": "https://github.com/quasarframework/quasar",
+  "stars": 20738
+}
+{
+  "url": "https://github.com/futurice/android-best-practices",
+  "stars": 19946
+}
+{
+  "url": "https://github.com/libgdx/libgdx",
+  "stars": 19760
+}
+{
+  "url": "https://github.com/afollestad/material-dialogs",
+  "stars": 19199
+}
+{
+  "url": "https://github.com/google/ExoPlayer",
+  "stars": 19067
+}
+{
+  "url": "https://github.com/didi/DoraemonKit",
+  "stars": 18549
+}
+{
+  "url": "https://github.com/TeamNewPipe/NewPipe",
+  "stars": 18097
+}
+{
+  "url": "https://github.com/alibaba/weex",
+  "stars": 17832
+}
+{
+  "url": "https://github.com/google/flexbox-layout",
+  "stars": 17312
+}
+{
+  "url": "https://github.com/GeekyAnts/NativeBase",
+  "stars": 17307
+}
+{
+  "url": "https://github.com/CarGuo/GSYVideoPlayer",
+  "stars": 17248
+}
+{
+  "url": "https://github.com/appwrite/appwrite",
+  "stars": 16962
+}
+{
+  "url": "https://github.com/framework7io/framework7",
+  "stars": 16686
+}
+{
+  "url": "https://github.com/google/mediapipe",
+  "stars": 16576
+}
+{
+  "url": "https://github.com/iampawan/FlutterExampleApps",
+  "stars": 16447
+}
+{
+  "url": "https://github.com/Tencent/tinker",
+  "stars": 16263
+}
+{
+  "url": "https://github.com/expo/expo",
+  "stars": 16141
+}
+{
+  "url": "https://github.com/cocos2d/cocos2d-x",
+  "stars": 15984
+}
+{
+  "url": "https://github.com/Kotlin/anko",
+  "stars": 15950
+}
+{
+  "url": "https://github.com/flutter/plugins",
+  "stars": 15359
+}
+{
+  "url": "https://github.com/tachiyomiorg/tachiyomi",
+  "stars": 15326
+}
+{
+  "url": "https://github.com/android10/Android-CleanArchitecture",
+  "stars": 15117
+}
+{
+  "url": "https://github.com/appium/appium",
+  "stars": 14833
+}
+{
+  "url": "https://github.com/kivy/kivy",
+  "stars": 14436
+}
+{
+  "url": "https://github.com/Tencent/MMKV",
+  "stars": 14222
+}
+{
+  "url": "https://github.com/Anuken/Mindustry",
+  "stars": 14212
+}
+{
+  "url": "https://github.com/hdodenhof/CircleImageView",
+  "stars": 14159
+}
+{
+  "url": "https://github.com/Tencent/ncnn",
+  "stars": 14074
+}
+{
+  "url": "https://github.com/2dust/v2rayNG",
+  "stars": 13828
+}
+{
+  "url": "https://github.com/alibaba/ARouter",
+  "stars": 13719
+}
+{
+  "url": "https://github.com/jarun/nnn",
+  "stars": 13702
+}
+{
+  "url": "https://github.com/google/filament",
+  "stars": 13667
+}
+{
+  "url": "https://github.com/iBotPeaches/Apktool",
+  "stars": 13646
+}
+{
+  "url": "https://github.com/xbmc/xbmc",
+  "stars": 13592
+}
+{
+  "url": "https://github.com/Tencent/QMUI_Android",
+  "stars": 13485
+}
+{
+  "url": "https://github.com/material-components/material-components-android",
+  "stars": 13473
+}
+{
+  "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+  "stars": 13466
+}
+{
+  "url": "https://github.com/orhanobut/logger",
+  "stars": 13194
+}
+{
+  "url": "https://github.com/CarGuo/gsy_github_app_flutter",
+  "stars": 13134
+}
+{
+  "url": "https://github.com/android-hacker/VirtualXposed",
+  "stars": 12979
+}
+{
+  "url": "https://github.com/expo/create-react-native-app",
+  "stars": 12908
+}
+{
+  "url": "https://github.com/txthinking/brook",
+  "stars": 12870
+}
+{
+  "url": "https://github.com/Curzibn/Luban",
+  "stars": 12862
+}
+{
+  "url": "https://github.com/Konloch/bytecode-viewer",
+  "stars": 12801
+}
+{
+  "url": "https://github.com/francistao/LearningNotes",
+  "stars": 12734
+}
+{
+  "url": "https://github.com/openstf/stf",
+  "stars": 12330
+}
+{
+  "url": "https://github.com/open-android/Android",
+  "stars": 12249
+}
+{
+  "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+  "stars": 12228
+}
+{
+  "url": "https://github.com/zhihu/Matisse",
+  "stars": 12222
+}
+{
+  "url": "https://github.com/daimajia/AndroidViewAnimations",
+  "stars": 12054
+}
+{
+  "url": "https://github.com/termux/termux-app",
+  "stars": 11624
+}
+{
+  "url": "https://github.com/mikepenz/MaterialDrawer",
+  "stars": 11506
+}
+{
+  "url": "https://github.com/LuckSiege/PictureSelector",
+  "stars": 11309
+}
+{
+  "url": "https://github.com/realm/realm-java",
+  "stars": 11263
+}
+{
+  "url": "https://github.com/hyb1996/Auto.js",
+  "stars": 11198
+}
+{
+  "url": "https://github.com/androidannotations/androidannotations",
+  "stars": 11166
+}
+{
+  "url": "https://github.com/Yalantis/uCrop",
+  "stars": 11112
+}
+{
+  "url": "https://github.com/android/compose-samples",
+  "stars": 11028
+}
+{
+  "url": "https://github.com/wasabeef/recyclerview-animators",
+  "stars": 10983
+}
+{
+  "url": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+  "stars": 10901
+}
+{
+  "url": "https://github.com/alibaba/vlayout",
+  "stars": 10832
+}
+{
+  "url": "https://github.com/android-async-http/android-async-http",
+  "stars": 10655
+}
+{
+  "url": "https://github.com/lingochamp/FileDownloader",
+  "stars": 10481
+}
+{
+  "url": "https://github.com/tbruyelle/RxPermissions",
+  "stars": 10312
+}
+{
+  "url": "https://github.com/gyf-dev/ImmersionBar",
+  "stars": 10188
+}
+{
+  "url": "https://github.com/JessYanCoding/MVPArms",
+  "stars": 10156
+}
+{
+  "url": "https://github.com/Templarian/MaterialDesign",
+  "stars": 9943
+}
+{
+  "url": "https://github.com/invertase/react-native-firebase",
+  "stars": 9865
+}
+{
+  "url": "https://github.com/mono/mono",
+  "stars": 9747
+}
+{
+  "url": "https://github.com/Tencent/matrix",
+  "stars": 9674
+}
+{
+  "url": "https://github.com/ksoichiro/Android-ObservableScrollView",
+  "stars": 9625
+}
+{
+  "url": "https://github.com/HarlonWang/AVLoadingIndicatorView",
+  "stars": 9607
+}
+{
+  "url": "https://github.com/wasabeef/glide-transformations",
+  "stars": 9589
+}
+{
+  "url": "https://github.com/googlesamples/easypermissions",
+  "stars": 9400
+}
+{
+  "url": "https://github.com/Tencent/wcdb",
+  "stars": 9331
+}
+{
+  "url": "https://github.com/wix/Detox",
+  "stars": 9309
+}
+{
+  "url": "https://github.com/LSPosed/MagiskOnWSA",
+  "stars": 9242
+}
+{
+  "url": "https://github.com/therecipe/qt",
+  "stars": 9117
+}
+{
+  "url": "https://github.com/navasmdc/MaterialDesignLibrary",
+  "stars": 9090
+}
+{
+  "url": "https://github.com/koral--/android-gif-drawable",
+  "stars": 9044
+}
+{
+  "url": "https://github.com/mzlogin/awesome-adb",
+  "stars": 8942
+}
+{
+  "url": "https://github.com/raysan5/raylib",
+  "stars": 8877
+}
+{
+  "url": "https://github.com/openframeworks/openFrameworks",
+  "stars": 8788
+}
+{
+  "url": "https://github.com/OWASP/owasp-mstg",
+  "stars": 8753
+}
+{
+  "url": "https://github.com/laobie/StatusBarUtil",
+  "stars": 8732
+}
+{
+  "url": "https://github.com/didi/chameleon",
+  "stars": 8652
+}
+{
+  "url": "https://github.com/MindorksOpenSource/android-interview-questions",
+  "stars": 8583
+}
+{
+  "url": "https://github.com/asLody/VirtualApp",
+  "stars": 8565
+}
+{
+  "url": "https://github.com/GcsSloop/AndroidNote",
+  "stars": 8560
+}
+{
+  "url": "https://github.com/OnsenUI/OnsenUI",
+  "stars": 8557
+}
+{
+  "url": "https://github.com/dotansimha/graphql-code-generator",
+  "stars": 8494
+}
+{
+  "url": "https://github.com/Freelander/Android_Data",
+  "stars": 8478
+}
+{
+  "url": "https://github.com/roughike/BottomBar",
+  "stars": 8445
+}
+{
+  "url": "https://github.com/JetBrains/compose-jb",
+  "stars": 8405
+}
+{
+  "url": "https://github.com/GeekyAnts/vue-native-core",
+  "stars": 8362
+}
+{
+  "url": "https://github.com/cats-oss/android-gpuimage",
+  "stars": 8334
+}
+{
+  "url": "https://github.com/facebook/buck",
+  "stars": 8228
+}
+{
+  "url": "https://github.com/florent37/MaterialViewPager",
+  "stars": 8210
+}
+{
+  "url": "https://github.com/huanghaibin-dev/CalendarView",
+  "stars": 8142
+}
+{
+  "url": "https://github.com/firebase/quickstart-android",
+  "stars": 8056
+}
+{
+  "url": "https://github.com/alibaba/atlas",
+  "stars": 8051
+}
+{
+  "url": "https://github.com/devhubapp/devhub",
+  "stars": 8000
+}
+{
+  "url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
+  "stars": 7971
+}
+{
+  "url": "https://github.com/coil-kt/coil",
+  "stars": 7892
+}
+{
+  "url": "https://github.com/JackyAndroid/AndroidInterview-Q-A",
+  "stars": 7854
+}
+{
+  "url": "https://github.com/guolindev/LitePal",
+  "stars": 7810
+}
+{
+  "url": "https://github.com/TonnyL/Awesome_APIs",
+  "stars": 7790
+}
+{
+  "url": "https://github.com/assimp/assimp",
+  "stars": 7632
+}
+{
+  "url": "https://github.com/wix/react-native-calendars",
+  "stars": 7597
+}
+{
+  "url": "https://github.com/termux/termux-packages",
+  "stars": 7573
+}
+{
+  "url": "https://github.com/android/android-ktx",
+  "stars": 7543
+}
+{
+  "url": "https://github.com/anbox/anbox",
+  "stars": 7501
+}
+{
+  "url": "https://github.com/aritraroy/UltimateAndroidReference",
+  "stars": 7469
+}
+{
+  "url": "https://github.com/InsertKoinIO/koin",
+  "stars": 7330
+}
+{
+  "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+  "stars": 7329
+}
+{
+  "url": "https://github.com/lecho/hellocharts-android",
+  "stars": 7287
+}
+{
+  "url": "https://github.com/google/agera",
+  "stars": 7284
+}
+{
+  "url": "https://github.com/Bearded-Hen/Android-Bootstrap",
+  "stars": 7253
+}
+{
+  "url": "https://github.com/cymcsg/UltimateRecyclerView",
+  "stars": 7246
+}
+{
+  "url": "https://github.com/davemorrissey/subsampling-scale-image-view",
+  "stars": 7216
+}
+{
+  "url": "https://github.com/davemorrissey/subsampling-scale-image-view",
+  "stars": 7220
+}
+{
+  "url": "https://github.com/crazycodeboy/TakePhoto",
+  "stars": 7179
+}
+{
+  "url": "https://github.com/geeeeeeeeek/WeChatLuckyMoney",
+  "stars": 7136
+}
+{
+  "url": "https://github.com/ionic-team/capacitor",
+  "stars": 7117
+}
+{
+  "url": "https://github.com/google/android-classyshark",
+  "stars": 6981
+}
+{
+  "url": "https://github.com/ogaclejapan/SmartTabLayout",
+  "stars": 6969
+}
+{
+  "url": "https://github.com/alibaba/AndFix",
+  "stars": 6926
+}
+{
+  "url": "https://github.com/n1nj4sec/pupy",
+  "stars": 6911
+}
+{
+  "url": "https://github.com/kivy/python-for-android",
+  "stars": 6907
+}
+{
+  "url": "https://github.com/seven332/EhViewer",
+  "stars": 6900
+}
+{
+  "url": "https://github.com/reactiveui/ReactiveUI",
+  "stars": 6866
+}
+{
+  "url": "https://github.com/mvt-project/mvt",
+  "stars": 6846
+}
+{
+  "url": "https://github.com/Jigsaw-Code/outline-client",
+  "stars": 6827
+}
+{
+  "url": "https://github.com/akveo/kittenTricks",
+  "stars": 6825
+}
+{
+  "url": "https://github.com/uber/RIBs",
+  "stars": 6784
+}
+{
+  "url": "https://github.com/DroidPluginTeam/DroidPlugin",
+  "stars": 6707
+}
+{
+  "url": "https://github.com/naman14/Timber",
+  "stars": 6674
+}
+{
+  "url": "https://github.com/k9mail/k-9",
+  "stars": 6515
+}
+{
+  "url": "https://github.com/rovo89/Xposed",
+  "stars": 6484
+}
+{
+  "url": "https://github.com/Tencent/Hippy",
+  "stars": 6449
+}
+{
+  "url": "https://github.com/barry-ran/QtScrcpy",
+  "stars": 6425
+}
+{
+  "url": "https://github.com/Meituan-Dianping/walle",
+  "stars": 6362
+}
+{
+  "url": "https://github.com/unoplatform/uno",
+  "stars": 6349
+}
+{
+  "url": "https://github.com/zetbaitsu/Compressor",
+  "stars": 6347
+}
+{
+  "url": "https://github.com/zo0r/react-native-push-notification",
+  "stars": 6327
+}
+{
+  "url": "https://github.com/GrenderG/Toasty",
+  "stars": 6313
+}
+{
+  "url": "https://github.com/markzhai/AndroidPerformanceMonitor",
+  "stars": 6311
+}
+{
+  "url": "https://github.com/li-xiaojun/XPopup",
+  "stars": 6294
+}
+{
+  "url": "https://github.com/Tencent/Shadow",
+  "stars": 6263
+}
+{
+  "url": "https://github.com/FreeRDP/FreeRDP",
+  "stars": 6180
+}
+{
+  "url": "https://github.com/guardianproject/haven",
+  "stars": 6178
+}
+{
+  "url": "https://github.com/appleboy/gorush",
+  "stars": 6191
+}
+{
+  "url": "https://github.com/smuyyh/BookReader",
+  "stars": 6079
+}
+{
+  "url": "https://github.com/simplezhli/flutter_deer",
+  "stars": 6067
+}
+{
+  "url": "https://github.com/rey5137/material",
+  "stars": 6046
+}
+{
+  "url": "https://github.com/ArthurHub/Android-Image-Cropper",
+  "stars": 6039
+}
+{
+  "url": "https://github.com/AirtestProject/Airtest",
+  "stars": 6012
+}
+{
+  "url": "https://github.com/nisrulz/flutter-examples",
+  "stars": 5993
+}
+{
+  "url": "https://github.com/daimajia/NumberProgressBar",
+  "stars": 5983
+}
+{
+  "url": "https://github.com/ashishb/android-security-awesome",
+  "stars": 5946
+}
+{
+  "url": "https://github.com/samuelclay/NewsBlur",
+  "stars": 5933
+}
+{
+  "url": "https://github.com/snowdream/awesome-android",
+  "stars": 5929
+}
+{
+  "url": "https://github.com/alibaba/flutter_boost",
+  "stars": 5883
+}
+{
+  "url": "https://github.com/ACRA/acra",
+  "stars": 5830
+}
+{
+  "url": "https://github.com/ximsfei/Android-skin-support",
+  "stars": 5782
+}
+{
+  "url": "https://github.com/prolificinteractive/material-calendarview",
+  "stars": 5770
+}
+{
+  "url": "https://github.com/wasabeef/richeditor-android",
+  "stars": 5762
+}
+{
+  "url": "https://github.com/mozilla-mobile/fenix",
+  "stars": 5732
+}
+{
+  "url": "https://github.com/Devlight/InfiniteCycleViewPager",
+  "stars": 5719
+}
+{
+  "url": "https://github.com/kickstarter/android-oss",
+  "stars": 5661
+}
+{
+  "url": "https://github.com/k0shk0sh/FastHub",
+  "stars": 5608
+}
+{
+  "url": "https://github.com/yarolegovich/DiscreteScrollView",
+  "stars": 5573
+}
+{
+  "url": "https://github.com/berty/berty",
+  "stars": 5559
+}
+{
+  "url": "https://github.com/MindorksOpenSource/from-java-to-kotlin",
+  "stars": 5558
+}
+{
+  "url": "https://github.com/sockeqwe/mosby",
+  "stars": 5484
+}
+{
+  "url": "https://github.com/robolectric/robolectric",
+  "stars": 5432
+}
+{
+  "url": "https://github.com/amitshekhariitbhu/Fast-Android-Networking",
+  "stars": 5378
+}
+{
+  "url": "https://github.com/igorwojda/android-showcase",
+  "stars": 5385
+}
+{
+  "url": "https://github.com/evernote/android-job",
+  "stars": 5373
+}
+{
+  "url": "https://github.com/ivpusic/react-native-image-crop-picker",
+  "stars": 5372
+}
+{
+  "url": "https://github.com/hanks-zyh/HTextView",
+  "stars": 5348
+}
+{
+  "url": "https://github.com/commonsguy/cw-omnibus",
+  "stars": 5270
+}
+{
+  "url": "https://github.com/Tapadoo/Alerter",
+  "stars": 5268
+}
+{
+  "url": "https://github.com/yuliskov/SmartTubeNext",
+  "stars": 5223
+}
+{
+  "url": "https://github.com/Clans/FloatingActionButton",
+  "stars": 5208
+}
+{
+  "url": "https://github.com/h6ah4i/android-advancedrecyclerview",
+  "stars": 5203
+}
+{
+  "url": "https://github.com/LawnchairLauncher/lawnchair",
+  "stars": 5216
+}
+{
+  "url": "https://github.com/Yalantis/Side-Menu.Android",
+  "stars": 5192
+}
+{
+  "url": "https://github.com/skydoves/Pokedex",
+  "stars": 5187
+}
+{
+  "url": "https://github.com/CameraKit/camerakit-android",
+  "stars": 5159
+}
+{
+  "url": "https://github.com/wasabeef/Blurry",
+  "stars": 5164
+}
+{
+  "url": "https://github.com/KeepSafe/TapTargetView",
+  "stars": 5152
+}
+{
+  "url": "https://github.com/crazycodeboy/react-native-splash-screen",
+  "stars": 5144
+}
+{
+  "url": "https://github.com/Karumi/Dexter",
+  "stars": 5136
+}
+{
+  "url": "https://github.com/opengapps/opengapps",
+  "stars": 5133
+}
+{
+  "url": "https://github.com/alibaba/UltraViewPager",
+  "stars": 5027
+}
+{
+  "url": "https://github.com/wequick/Small",
+  "stars": 5013
+}
+{
+  "url": "https://github.com/amitshekhariitbhu/RxJava2-Android-Samples",
+  "stars": 4957
+}
+{
+  "url": "https://github.com/atinfo/awesome-test-automation",
+  "stars": 4955
+}
+{
+  "url": "https://github.com/orhanobut/dialogplus",
+  "stars": 4953
+}
+{
+  "url": "https://github.com/mikepenz/Android-Iconics",
+  "stars": 4941
+}
+{
+  "url": "https://github.com/Devlight/NavigationTabBar",
+  "stars": 4910
+}
+{
+  "url": "https://github.com/danikula/AndroidVideoCache",
+  "stars": 4906
+}
+{
+  "url": "https://github.com/iSoron/uhabits",
+  "stars": 4880
+}
+{
+  "url": "https://github.com/Ramotion/folding-cell-android",
+  "stars": 4867
+}
+{
+  "url": "https://github.com/AriaLyy/Aria",
+  "stars": 4860
+}
+{
+  "url": "https://github.com/ankidroid/Anki-Android",
+  "stars": 4813
+}
+{
+  "url": "https://github.com/taichi-framework/TaiChi",
+  "stars": 4816
+}
+{
+  "url": "https://github.com/nativescript-vue/nativescript-vue",
+  "stars": 4804
+}
+{
+  "url": "https://github.com/diogobernardino/williamchart",
+  "stars": 4796
+}
+{
+  "url": "https://github.com/react-native-modal/react-native-modal",
+  "stars": 4796
+}
+{
+  "url": "https://github.com/mcxiaoke/packer-ng-plugin",
+  "stars": 4763
+}
+{
+  "url": "https://github.com/sensepost/objection",
+  "stars": 4765
+}
+{
+  "url": "https://github.com/shoutem/ui",
+  "stars": 4743
+}
+{
+  "url": "https://github.com/google/cameraview",
+  "stars": 4737
+}
+{
+  "url": "https://github.com/huangyanbin/smartTable",
+  "stars": 4729
+}
+{
+  "url": "https://github.com/getActivity/AndroidProject",
+  "stars": 4729
+}
+{
+  "url": "https://github.com/razerdp/BasePopup",
+  "stars": 4696
+}
+{
+  "url": "https://github.com/skyline-emu/skyline",
+  "stars": 4778
+}
+{
+  "url": "https://github.com/youlookwhat/CloudReader",
+  "stars": 4651
+}
+{
+  "url": "https://github.com/wdullaer/MaterialDateTimePicker",
+  "stars": 4644
+}
+{
+  "url": "https://github.com/microg/GmsCore",
+  "stars": 4645
+}
+{
+  "url": "https://github.com/alipay/SoloPi",
+  "stars": 4624
+}
+{
+  "url": "https://github.com/aidlearning/AidLearning-FrameWork",
+  "stars": 4624
+}
+{
+  "url": "https://github.com/begeekmyfriend/yasea",
+  "stars": 4620
+}
+{
+  "url": "https://github.com/ldcsaa/HP-Socket",
+  "stars": 4590
+}
+{
+  "url": "https://github.com/SplashCodes/JAViewer",
+  "stars": 4577
+}
+{
+  "url": "https://github.com/Moosphan/Android-Daily-Interview",
+  "stars": 4582
+}
+{
+  "url": "https://github.com/gitpoint/git-point",
+  "stars": 4565
+}
+{
+  "url": "https://github.com/ElderDrivers/EdXposed",
+  "stars": 4573
+}
+{
+  "url": "https://github.com/kyleduo/SwitchButton",
+  "stars": 4559
+}
+{
+  "url": "https://github.com/romandanylyk/PageIndicatorView",
+  "stars": 4528
+}
+{
+  "url": "https://github.com/szad670401/HyperLPR",
+  "stars": 4528
+}
+{
+  "url": "https://github.com/nisrulz/android-tips-tricks",
+  "stars": 4538
+}
+{
+  "url": "https://github.com/zhanghai/Douya",
+  "stars": 4506
+}
+{
+  "url": "https://github.com/Jasonchenlijian/FastBle",
+  "stars": 4514
+}
+{
+  "url": "https://github.com/HotBitmapGG/bilibili-android-client",
+  "stars": 4435
+}
+{
+  "url": "https://github.com/LSPosed/LSPosed",
+  "stars": 4396
+}
+{
+  "url": "https://github.com/yuliskov/SmartTubeLegacy",
+  "stars": 4376
+}
+{
+  "url": "https://github.com/firebase/FirebaseUI-Android",
+  "stars": 4370
+}

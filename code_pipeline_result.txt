@@ -1,0 +1,244 @@
+{
+  "name": "flutter/flutter",
+  "count": 17
+}
+{
+  "name": "Genymobile/scrcpy",
+  "count": 1
+}
+{
+  "name": "PhilJay/MPAndroidChart",
+  "count": 28
+}
+{
+  "name": "fastlane/fastlane",
+  "count": 2
+}
+{
+  "name": "bumptech/glide",
+  "count": 12
+}
+{
+  "name": "zxing/zxing",
+  "count": 10
+}
+{
+  "name": "laurent22/joplin",
+  "count": 2
+}
+{
+  "name": "scwang90/SmartRefreshLayout",
+  "count": 30
+}
+{
+  "name": "CymChad/BaseRecyclerViewAdapterHelper",
+  "count": 20
+}
+{
+  "name": "flutter/flutter",
+  "count": 29
+}
+{
+  "name": "Genymobile/scrcpy",
+  "count": 1
+}
+{
+  "name": "PhilJay/MPAndroidChart",
+  "count": 28
+}
+{
+  "name": "fastlane/fastlane",
+  "count": 2
+}
+{
+  "name": "bumptech/glide",
+  "count": 12
+}
+{
+  "name": "Blankj/AndroidUtilCode",
+  "count": 9
+}
+{
+  "name": "bilibili/ijkplayer",
+  "count": 6
+}
+{
+  "name": "zxing/zxing",
+  "count": 10
+}
+{
+  "name": "laurent22/joplin",
+  "count": 2
+}
+{
+  "name": "scwang90/SmartRefreshLayout",
+  "count": 30
+}
+{
+  "name": "CymChad/BaseRecyclerViewAdapterHelper",
+  "count": 20
+}
+{
+  "name": "libgdx/libgdx",
+  "count": 1
+}
+{
+  "name": "google/ExoPlayer",
+  "count": 8
+}
+{
+  "name": "didi/DoraemonKit",
+  "count": 14
+}
+{
+  "name": "TeamNewPipe/NewPipe",
+  "count": 8
+}
+{
+  "name": "alibaba/weex",
+  "count": 10
+}
+{
+  "name": "CarGuo/GSYVideoPlayer",
+  "count": 19
+}
+{
+  "name": "google/mediapipe",
+  "count": 7
+}
+{
+  "name": "Tencent/tinker",
+  "count": 3
+}
+{
+  "name": "cocos2d/cocos2d-x",
+  "count": 9
+}
+{
+  "name": "android10/Android-CleanArchitecture",
+  "count": 9
+}
+{
+  "name": "Tencent/MMKV",
+  "count": 2
+}
+{
+  "name": "hdodenhof/CircleImageView",
+  "count": 1
+}
+{
+  "name": "alibaba/ARouter",
+  "count": 6
+}
+{
+  "name": "google/filament",
+  "count": 1
+}
+{
+  "name": "xbmc/xbmc",
+  "count": 1
+}
+{
+  "name": "Tencent/QMUI_Android",
+  "count": 10
+}
+{
+  "name": "material-components/material-components-android",
+  "count": 30
+}
+{
+  "name": "orhanobut/logger",
+  "count": 1
+}
+{
+  "name": "android-hacker/VirtualXposed",
+  "count": 30
+}
+{
+  "name": "Curzibn/Luban",
+  "count": 1
+}
+{
+  "name": "JessYanCoding/AndroidAutoSize",
+  "count": 7
+}
+{
+  "name": "zhihu/Matisse",
+  "count": 5
+}
+{
+  "name": "daimajia/AndroidViewAnimations",
+  "count": 2
+}
+{
+  "name": "termux/termux-app",
+  "count": 9
+}
+{
+  "name": "LuckSiege/PictureSelector",
+  "count": 10
+}
+{
+  "name": "realm/realm-java",
+  "count": 17
+}
+{
+  "name": "hyb1996/Auto.js",
+  "count": 30
+}
+{
+  "name": "androidannotations/androidannotations",
+  "count": 30
+}
+{
+  "name": "Yalantis/uCrop",
+  "count": 4
+}
+{
+  "name": "permissions-dispatcher/PermissionsDispatcher",
+  "count": 10
+}
+{
+  "name": "alibaba/vlayout",
+  "count": 6
+}
+{
+  "name": "android-async-http/android-async-http",
+  "count": 2
+}
+{
+  "name": "lingochamp/FileDownloader",
+  "count": 7
+}
+{
+  "name": "tbruyelle/RxPermissions",
+  "count": 1
+}
+{
+  "name": "gyf-dev/ImmersionBar",
+  "count": 8
+}
+{
+  "name": "JessYanCoding/MVPArms",
+  "count": 9
+}
+{
+  "name": "invertase/react-native-firebase",
+  "count": 1
+}
+{
+  "name": "Tencent/matrix",
+  "count": 15
+}
+{
+  "name": "ksoichiro/Android-ObservableScrollView",
+  "count": 30
+}
+{
+  "name": "HarlonWang/AVLoadingIndicatorView",
+  "count": 2
+}
+{
+  "name": "googlesamples/easypermissions",
+  "count": 8
+}

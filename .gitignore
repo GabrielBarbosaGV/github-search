@@ -1,4 +1,2 @@
 .env
-page.txt
-result.txt
-*.txt
+code_pipeline_fetched_info.txt
