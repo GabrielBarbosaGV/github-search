@@ -242,3 +242,19 @@
   "name": "googlesamples/easypermissions",
   "count": 8
 }
+{
+  "name": "Tencent/wcdb",
+  "count": 5
+}
+{
+  "name": "wix/Detox",
+  "count": 7
+}
+{
+  "name": "therecipe/qt",
+  "count": 1
+}
+{
+  "name": "navasmdc/MaterialDesignLibrary",
+  "count": 5
+}

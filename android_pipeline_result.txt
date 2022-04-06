@@ -1198,3 +1198,123 @@
   "url": "https://github.com/firebase/FirebaseUI-Android",
   "stars": 4370
 }
+{
+  "url": "https://github.com/budtmo/docker-android",
+  "stars": 4357
+}
+{
+  "url": "https://github.com/wix/react-native-ui-lib",
+  "stars": 4316
+}
+{
+  "url": "https://github.com/Ashok-Varma/BottomNavigation",
+  "stars": 4309
+}
+{
+  "url": "https://github.com/robinhood/ticker",
+  "stars": 4243
+}
+{
+  "url": "https://github.com/natario1/CameraView",
+  "stars": 4241
+}
+{
+  "url": "https://github.com/hadyang/interview",
+  "stars": 4234
+}
+{
+  "url": "https://github.com/RangiLyu/nanodet",
+  "stars": 4221
+}
+{
+  "url": "https://github.com/Genymobile/gnirehtet",
+  "stars": 4183
+}
+{
+  "url": "https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector",
+  "stars": 4171
+}
+{
+  "url": "https://github.com/youngsoft/MyLinearLayout",
+  "stars": 4172
+}
+{
+  "url": "https://github.com/Meituan-Dianping/Robust",
+  "stars": 4167
+}
+{
+  "url": "https://github.com/airbnb/DeepLinkDispatch",
+  "stars": 4153
+}
+{
+  "url": "https://github.com/AntennaPod/AntennaPod",
+  "stars": 4142
+}
+{
+  "url": "https://github.com/cuberite/cuberite",
+  "stars": 4139
+}
+{
+  "url": "https://github.com/hugeterry/CoordinatorTabLayout",
+  "stars": 4120
+}
+{
+  "url": "https://github.com/mapbox/mapbox-gl-native",
+  "stars": 4123
+}
+{
+  "url": "https://github.com/kittinunf/fuel",
+  "stars": 4119
+}
+{
+  "url": "https://github.com/alibaba/Tangram-Android",
+  "stars": 4058
+}
+{
+  "url": "https://github.com/Yalantis/Phoenix",
+  "stars": 4038
+}
+{
+  "url": "https://github.com/iNPUTmice/Conversations",
+  "stars": 4021
+}
+{
+  "url": "https://github.com/objectbox/objectbox-java",
+  "stars": 4006
+}
+{
+  "url": "https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource",
+  "stars": 3975
+}
+{
+  "url": "https://github.com/mobile-roadmap/android-developer-roadmap",
+  "stars": 3955
+}
+{
+  "url": "https://github.com/AdAway/AdAway",
+  "stars": 3981
+}
+{
+  "url": "https://github.com/Gurupreet/ComposeCookBook",
+  "stars": 3975
+}
+{
+  "url": "https://github.com/didi/booster",
+  "stars": 3945
+}
+{
+  "url": "https://github.com/meefik/linuxdeploy",
+  "stars": 3936
+}
+{
+  "url": "https://github.com/CalebFenton/simplify",
+  "stars": 3931
+}
+{
+  "url": "https://github.com/Doikki/DKVideoPlayer",
+  "stars": 3928
+}
+{
+  "url": "https://github.com/androguard/androguard",
+  "stars": 3913
+}
