@@ -1,3 +1,4 @@
 .env
 code_pipeline_fetched_info.txt
 sorted.txt
+*.tex
